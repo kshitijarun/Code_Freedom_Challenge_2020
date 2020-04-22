@@ -1,0 +1,14 @@
+Python Program to Accept Three Digits and Print all Possible Combinations from the Digits.
+
+Input:
+1
+5
+2
+
+Output:
+1 5 2
+1 2 5
+5 1 2
+5 2 1
+2 1 5
+2 5 1
